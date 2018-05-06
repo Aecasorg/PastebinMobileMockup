@@ -4,8 +4,7 @@ A couple of suggestions for changes to the PasteBin Mobile app.
 
 ## Screenshot
 
-<img src='https://imgur.com/8t6QLEc.png' title='Screenshot' width='370' alt='Screenshot' />
-<img src='https://imgur.com/Y8pIEmh.png' title='Screenshot' width='370' alt='Screenshot' />
+<img src='https://imgur.com/8t6QLEc.png' title='Screenshot' width='370' alt='Screenshot' /><img src='https://imgur.com/Y8pIEmh.png' title='Screenshot' width='370' alt='Screenshot' />
 
 
 ## Notes
