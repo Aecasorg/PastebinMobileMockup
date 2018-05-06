@@ -9,7 +9,7 @@ A couple of suggestions for changes to the PasteBin Mobile app.
 
 ## Notes
 
-Paste screen has slightly different options button. Which one is preferable?
+The two screens have slightly different options buttons. Which one is preferable?
 
 
 ## Credits
