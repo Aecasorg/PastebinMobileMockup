@@ -1,6 +1,6 @@
 # PasteBin Mobile UI Mockups
 
-A mockup of a suggestion for changes to the PasteBin Mobile app UI. 
+A mockup of a suggestion for changes to the PasteBin Mobile app UI. Made using Sketch.
 
 ## Screenshot
 
