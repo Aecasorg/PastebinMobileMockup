@@ -4,9 +4,9 @@ A mockup of a suggestion for changes to the PasteBin Mobile app UI.
 
 ## Screenshot
 
-<img src='https://i.imgur.com/fs8VBpd.png' title='Screenshot' width='370' alt='Screenshot' /><img src='https://i.imgur.com/17QTmMG.png' title='Screenshot' width='370' alt='Screenshot' />
-<img src='https://i.imgur.com/8Mb1iWZ.png' title='Screenshot' width='370' alt='Screenshot' /><img src='https://i.imgur.com/wfiG1nq.png' title='Screenshot' width='370' alt='Screenshot' />
-<img src='https://i.imgur.com/cls5dyM.png' title='Screenshot' width='370' alt='Screenshot' /><img src='https://i.imgur.com/KOQr2oe.png' title='Screenshot' width='370' alt='Screenshot' />
+<img src='https://i.imgur.com/fs8VBpd.png' title='Screenshot' width='370' alt='Screenshot' />    <img src='https://i.imgur.com/17QTmMG.png' title='Screenshot' width='370' alt='Screenshot' />
+<img src='https://i.imgur.com/8Mb1iWZ.png' title='Screenshot' width='370' alt='Screenshot' />    <img src='https://i.imgur.com/wfiG1nq.png' title='Screenshot' width='370' alt='Screenshot' />
+<img src='https://i.imgur.com/cls5dyM.png' title='Screenshot' width='370' alt='Screenshot' />    <img src='https://i.imgur.com/KOQr2oe.png' title='Screenshot' width='370' alt='Screenshot' />
 
 
 ## Notes
